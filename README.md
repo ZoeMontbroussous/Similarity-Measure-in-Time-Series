@@ -1,5 +1,4 @@
 # Similarity-Measure-in-Time-Series
 
-Ceci est un test
-
-edit dans branche
+Le but de ce code est de mesurer les similarités entre des séries temporelles.
+On utilisera notamment la distance de Wasserstein
